@@ -4,30 +4,30 @@
 
 ## 🌍 Project 1 : Africa Talent Intelligence Dashboard
 
-| Colonne | Description |
-|---------|-------------|
-| `pays` | Nom du pays |
-| `poste` | Intitulé du poste |
-| `secteur` | Secteur d'activité |
-| `salaire_monnaie_locale` | Salaire en monnaie locale |
-| `devise` | Code de la devise locale |
-| `taux_de_change` | Taux de change vers USD |
-| `salaire_usd` | Salaire converti en USD |
+| Column | Description |
+|--------|-------------|
+| `pays` | Country name |
+| `poste` | Job title |
+| `secteur` | Business sector |
+| `salaire_monnaie_locale` | Salary in local currency |
+| `devise` | Local currency code |
+| `taux_de_change` | Exchange rate to USD |
+| `salaire_usd` | Salary converted in USD |
 
 ---
 
 ## 🛒 Project 2 : E-Commerce Dashboard
 
-| Colonne | Description |
-|---------|-------------|
-| `ID_Client` | Identifiant unique du client |
-| `Genre` | Genre du client |
-| `Age` | Âge du client |
-| `Ville` | Ville du client |
-| `Type_Abonnement` | Type d'abonnement (Gold / Silver / Bronze) |
-| `Depenses_Totales` | Montant total des dépenses |
-| `Articles_Achetes` | Nombre d'articles achetés |
-| `Note_Moyenne` | Note moyenne de satisfaction |
-| `Remise_Appliquee` | Remise appliquée (TRUE / FALSE) |
-| `Jours_Depuis_Dernier_Achat` | Jours écoulés depuis le dernier achat |
-| `Niveau_Satisfaction` | Niveau de satisfaction (Satisfied / Neutral / Unsatisfied) |
+| Column | Description |
+|--------|-------------|
+| `ID_Client` | Unique customer ID |
+| `Genre` | Customer gender |
+| `Age` | Customer age |
+| `Ville` | Customer city |
+| `Type_Abonnement` | Subscription type (Gold / Silver / Bronze) |
+| `Depenses_Totales` | Total spending amount |
+| `Articles_Achetes` | Number of articles purchased |
+| `Note_Moyenne` | Average satisfaction rating |
+| `Remise_Appliquee` | Discount applied (TRUE / FALSE) |
+| `Jours_Depuis_Dernier_Achat` | Days since last purchase |
+| `Niveau_Satisfaction` | Satisfaction level (Satisfied / Neutral / Unsatisfied) |
