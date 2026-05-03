@@ -19,6 +19,8 @@ Power BI | SQL | DAX | Excel
 - Which sectors are underpaid compared to the global average ?
 
 ![Africa](africa_job.png)
+📐 [Voir les mesures DAX](./project1-africa-talent/measures.md)
+
 
 ---
 
@@ -55,6 +57,7 @@ Power BI | SQL | DAX | Excel
 ![Performance](performance%20-revenus%20.png)
 ![Segmentation](segmentation%201.png)
 ![Fidelite](fidelite.png)
+📐 [Voir les mesures DAX](./project2-ecommerce/measures.md)
 ---
 
 ## 🛠️ Skills
