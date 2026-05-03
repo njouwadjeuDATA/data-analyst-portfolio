@@ -1,5 +1,27 @@
 # 📐 DAX Measures Documentation
 
+## 🌍 Project 1 : Africa Talent Intelligence Dashboard
+
+```dax
+Average Salary = AVERAGE(job_salaries[salary_in_usd])
+```
+> Calculates the average salary in USD across all records.
+
+```dax
+Total Positions = COUNT(job_salaries[poste])
+```
+> Total number of job positions in the dataset.
+
+```dax
+Unique Profiles = DISTINCTCOUNT(job_salaries[poste])
+```
+> Number of unique job profiles.
+
+```dax
+Number of Countries = DISTINCTCOUNT(job_salaries[country])
+```
+> Total number of distinct countries in the dataset.
+
 ## 🛒 Project 2 : E-Commerce Dashboard
 
 ### Revenue Measures
@@ -42,24 +64,4 @@ Note_Moyenne = AVERAGE(fact_commandes[note_satisfaction])
 
 ---
 
-## 🌍 Project 1 : Africa Talent Intelligence Dashboard
 
-```dax
-Average Salary = AVERAGE(job_salaries[salary_in_usd])
-```
-> Calculates the average salary in USD across all records.
-
-```dax
-Total Positions = COUNT(job_salaries[poste])
-```
-> Total number of job positions in the dataset.
-
-```dax
-Unique Profiles = DISTINCTCOUNT(job_salaries[poste])
-```
-> Number of unique job profiles.
-
-```dax
-Number of Countries = DISTINCTCOUNT(job_salaries[country])
-```
-> Total number of distinct countries in the dataset.
