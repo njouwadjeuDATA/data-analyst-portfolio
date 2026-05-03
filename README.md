@@ -19,6 +19,7 @@ Power BI | SQL | DAX | Excel
 - Which sectors are underpaid compared to the global average ?
 
 ![Africa](africa_job.png)
+
 📐 [Voir les mesures DAX](./project1-africa-talent/measures.md)
 
 
