@@ -22,6 +22,9 @@ Power BI | SQL | DAX | Excel
 
 📐 [Voir les mesures DAX](./project1-africa-talent/measures.md)
 
+🗄️ [Voir les requêtes SQL](./SQL-Queries.md)
+
+
 
 ---
 
@@ -60,6 +63,9 @@ Power BI | SQL | DAX | Excel
 ![Fidelite](fidelite.png)
 
 📐 [Voir les mesures DAX](./project2-ecommerce/measures.md)
+
+🗄️ [Voir les requêtes SQL](./SQL-Queries.md)
+
 ---
 
 ## 🛠️ Skills
