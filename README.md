@@ -24,6 +24,8 @@ Power BI | SQL | DAX | Excel
 
 🗄️ [Voir les requêtes SQL](./SQL-Queries.md)
 
+📊 [Voir les datasets](./datasets.md)
+
 
 
 ---
@@ -65,6 +67,8 @@ Power BI | SQL | DAX | Excel
 📐 [Voir les mesures DAX](./project2-ecommerce/measures.md)
 
 🗄️ [Voir les requêtes SQL](./SQL-Queries.md)
+
+📊 [Voir les datasets](./datasets.md)
 
 ---
 
