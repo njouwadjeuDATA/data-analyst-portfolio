@@ -58,6 +58,7 @@ Power BI | SQL | DAX | Excel
 ![Performance](performance%20-revenus%20.png)
 ![Segmentation](segmentation%201.png)
 ![Fidelite](fidelite.png)
+
 📐 [Voir les mesures DAX](./project2-ecommerce/measures.md)
 ---
 
