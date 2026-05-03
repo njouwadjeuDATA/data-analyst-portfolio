@@ -53,9 +53,8 @@ Power BI | SQL | DAX | Excel
 - Is customer satisfaction improving over time ?
 
 ![Performance](performance%20-revenus%20.png)
-![Segmentation](segmentation1.png)
+![Segmentation](segmentation%201.png)
 ![Fidelite](fidelite.png)
-
 ---
 
 ## 🛠️ Skills
