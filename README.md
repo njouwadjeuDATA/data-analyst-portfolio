@@ -60,8 +60,6 @@ Power BI | SQL | DAX | Excel
 - Do discounts improve customer satisfaction ?
 - Is customer satisfaction improving over time ?
 
-[📄 Voir le Dashboard E-Commerce](./tableau%20de%20bord%20e_commerce_organisé.pdf)
-
 📐 [Voir les mesures DAX](./project2-ecommerce/measures.md)
 
 🗄️ [Voir les requêtes SQL](./SQL-Queries.md)
