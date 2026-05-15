@@ -59,6 +59,9 @@ Power BI | SQL | DAX | Excel
 - Which city has the highest average rating ?
 - Do discounts improve customer satisfaction ?
 - Is customer satisfaction improving over time ?
+![Performance](./performance-revenu.png)
+![Segmentation](./segmentation.png)
+![Fidelite](./fidelite.png)
 
 📐 [Voir les mesures DAX](./project2-ecommerce/measures.md)
 
